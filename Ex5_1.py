@@ -4,7 +4,7 @@
 suma = 0
 contador = 0
 
-user_data = input ("Enter a number:")
+user_data = input ("Hello! I will help u to count and calculate average. Type Done to end entering numbers. Enter a number:")
 if user_data == "done" :
     print ("Total: ", suma, " Counter: ", contador)
 
